@@ -35,7 +35,6 @@
 
 <br>
 <br>
-
  ## Most Used Languages
   <img align = "left" alt="Most Used Languages" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavmishra15" />
 </details>
