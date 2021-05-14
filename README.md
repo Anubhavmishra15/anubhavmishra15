@@ -1,5 +1,5 @@
 <a href="https://backflyrer/anubhavism"><img align="center" src="https://raw.githubusercontent.com/7/main/back.png"/></a>
-<img align="right" alt="GIF" src="ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="1.jpg" width="500" height="300" />
 ## Hi there,I am Anubhav Mishra 👋
 
 - 👨🏻‍🎓I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.  
