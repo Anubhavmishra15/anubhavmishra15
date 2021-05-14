@@ -1,5 +1,6 @@
 <img align="center" alt="poster" src="glow.jpg" width="900" height="140" />
-## Hi there,I am Anubhav Mishra 👋
+
+## Hi! I AM ANUBHAV MISHRA👋
 
 - 👨🏻‍🎓I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.  
 - 😄My current field of learning is Data Science.  
