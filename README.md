@@ -1,5 +1,5 @@
 <a href="https://backflyrer/anubhavism"><img align="center" src="https://raw.githubusercontent.com/7/main/back.png"/></a>
-
+<img align="right" alt="GIF" src="ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="500" height="320" />
 ## Hi there,I am Anubhav Mishra 👋
 
 - 👨🏻‍🎓I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.  
@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Anubhavmishra15&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhavmishra15&theme=radical"/>
 |---|---|
 
-<img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="500" height="320" />
  
 
 ## Languages & Tools:
