@@ -1,12 +1,11 @@
-<a href="https://backflyrer/anubhavism"><img align="center" src="https://raw.githubusercontent.com/7/main/back.png"/></a>
-<img align="right" alt="GIF" src="1.jpg" width="500" height="300" />
+<img align="center" alt="poster" src="glow.jpg" width="900" height="140" />
 ## Hi there,I am Anubhav Mishra 👋
 
 - 👨🏻‍🎓I'm a graduation student.I am pursuing Bachelor of Technology in Computer Science and Engineering.  
 - 😄My current field of learning is Data Science.  
 - 👨🏻‍💻I generally code in python and i am also familiar with C and html & css.
 
-⚡ Fun fact: I love play instruments.🤭🎶🎶
+ ⚡ Fun fact: I love play instruments.🤭🎶🎶
  
  ## Feel free to talk to me:😄
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anubhavmishra15/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aAnubhavmishra15/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anubhavism_/)
